@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=color=_hexcode)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=2&height=150&section=header&text=Kim.Taekwon&fontSize=50&animation=twinkling)
 
 <p align="center">from 🇰🇷 <br>in  🇯🇵
 </p>
