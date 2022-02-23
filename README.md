@@ -1,4 +1,5 @@
-immersion is the best way to learn
+<h1 align="center">immersion is the best way to learn
+</h1>
 
 <p align="center">from 🇰🇷 <br>in  🇯🇵
 </p>
