@@ -1,5 +1,4 @@
-<h1 align="center">immersion is the best way to learn
-</h1>
+![header](https://capsule-render.vercel.app/api?type=soft&color=_hexcode&height=150&section=header&text=Kim.Taekwon&fontSize=50&animation=twinkling)
 
 <p align="center">from 🇰🇷 <br>in  🇯🇵
 </p>
