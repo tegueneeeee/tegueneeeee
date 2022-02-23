@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&section=header&text=immersion is the best way to learn&fontSize=50&animation=twinkling)
+immersion is the best way to learn
 
 <p align="center">from 🇰🇷 <br>in  🇯🇵
 </p>
