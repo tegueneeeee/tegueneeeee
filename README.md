@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&section=header&text=Kim.Taekwon&fontSize=50&animation=twinkling)
 
-<p align="center">from 🇰🇷</p>
-<p align="center"> in  🇯🇵</p>
+<p align="center">from 🇰🇷 <br>in  🇯🇵
+</p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h5>
 
