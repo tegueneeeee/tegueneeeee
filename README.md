@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=_hexcode)
+![header](https://capsule-render.vercel.app/api?color=auto)
 
 <p align="center">from 🇰🇷 <br>in  🇯🇵
 </p>
