@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Kim.Taekwon&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&section=header&text=Kim.Taekwon&fontSize=50&animation=twinkling)
 
 <!--
 **tegueneeeee/tegueneeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
